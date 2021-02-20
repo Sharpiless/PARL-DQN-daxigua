@@ -371,7 +371,7 @@ agent.save(save_path)
 
 ### 7.1 游戏共有11种水果：
 
-![](https://ai-studio-static-online.cdn.bcebos.com/6758c92fb70e4b59904cd0d39b7e8b4e9c70943c4f9046129f289c8e8b52ecf5)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210220225220163.png)
 
 ### 7.2 碰撞检测：
 
@@ -478,9 +478,8 @@ def get_feature(self, N_class=12, Keep=15):
 
 目前用的就是这些个特征。。。
 
-# 张老板来了hahh，老板大气（滑稽.jpg）
 
 ## 8. 我的公众号
 
-![](https://ai-studio-static-online.cdn.bcebos.com/581bcc5e56594107859b2a8ccebba0e9938d10759d8242e689ae64680ab94150)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210220225208370.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70)
 
