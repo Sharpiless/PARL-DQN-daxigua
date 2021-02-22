@@ -8,6 +8,14 @@ https://www.bilibili.com/video/BV1Wy4y1n73E
 
 https://www.bilibili.com/video/BV1gN411d7dr
 
+> B站：[https://space.bilibili.com/470550823](https://space.bilibili.com/470550823)
+
+> CSDN：[https://blog.csdn.net/weixin_44936889](https://blog.csdn.net/weixin_44936889)
+
+> AI Studio：[https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156)
+
+> Github：[https://github.com/Sharpiless](https://github.com/Sharpiless)
+
 ## 1. 安装依赖库
 
 > 其中游戏代码使用pygame重构
